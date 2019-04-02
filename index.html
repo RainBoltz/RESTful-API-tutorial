@@ -1,0 +1,19 @@
+<html>
+
+<button onclick="test()">GOGO</button>
+
+<script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+<script>
+    function test(){
+        $.ajax({
+            type:'POST',
+            data:{data:123},
+            url:'http://127.0.0.1:7788/api/v1.0/ItemA',
+            success:  function(response){
+                var res = JSON.parse(response);
+                console.log(res.msg);
+            }
+        })
+    }
+</script>
+</html>
