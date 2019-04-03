@@ -5,6 +5,7 @@ My own simple RESTful API structure implemented in Python.
 ## Usage
 
 Simply change the `TODO` contents in [startserver.py](https://github.com/RainBoltz/RESTful-API-template/blob/master/startserver.py).
+
 [index.html](https://github.com/RainBoltz/RESTful-API-template/blob/master/index.html) also shows how a website interact with python-based server with JavaScript(jQuery Ajax was used).
 
 ## About RESTful
