@@ -1,4 +1,4 @@
-# RESTful API template
+# RESTful API tutorial w/ Sample
 
 My own simple RESTful API structure implemented in Python.
 
