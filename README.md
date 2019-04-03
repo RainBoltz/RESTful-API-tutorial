@@ -6,7 +6,7 @@ My own simple RESTful API structure implemented in Python.
 
 Simply change the `TODO` contents in [startserver.py](https://github.com/RainBoltz/RESTful-API-template/blob/master/startserver.py).
 
-[index.html](https://github.com/RainBoltz/RESTful-API-template/blob/master/index.html) also shows how a website interact with python-based server with JavaScript(jQuery Ajax was used).
+[index.html](https://github.com/RainBoltz/RESTful-API-template/blob/master/index.html) also shows how a website interact with python-based server with JavaScript ([jQuery](https://jquery.com/) Ajax was used).
 
 ## About RESTful
 
@@ -130,7 +130,7 @@ For example, when a user makes a request to the root of api.example.com, they ge
 
 The above code indicates that there is a link attribute in the document. The user reads the attributes and knows what API to call next. "**Rel**" indicates the relationship between the API and the current URL (collection relationship, and gives the URL of the collection), "**href**" indicates the path of the API, title indicates the title of the API, and type indicates the return type.
 
-The design of the Hypermedia API is called **[HATEOAS]**(https://en.wikipedia.org/wiki/HATEOAS) . [Github's API](https://api.github.com/) is well designed inthe  HATEOAS structure, accessing it will get a list of URLs for all available APIs.
+The design of the Hypermedia API is called **[HATEOAS](https://en.wikipedia.org/wiki/HATEOAS)** . [Github's API](https://api.github.com/) is well designed inthe  HATEOAS structure, accessing it will get a list of URLs for all available APIs.
 
 
 
