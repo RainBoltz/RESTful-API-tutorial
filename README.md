@@ -12,16 +12,16 @@ Simply change the `TODO` contents in [startserver.py](https://github.com/RainBol
 
 10 basic rules you should know about RESTful structure...
 
-- [1. Protocol](#1-protocol)
-- [2. Domain Name](#2-domain-name)
-- [3. Versioning](#3-versioning)
-- [4. Endpoint](#4-endpoint)
-- [5. HTTP methods](#5-http-methods)
-- [6. Filtering](#6-filtering)
-- [7. Status Codes](#7-status-codes)
-- [8. Error handling](#8-error-handling)
-- [9. Returns](#9-returns)
-- [10. Hypermedia API](#10-hypermedia-api)
+- [Protocol](#1-protocol)
+- [Domain Name](#2-domain-name)
+- [Versioning](#3-versioning)
+- [Endpoint](#4-endpoint)
+- [HTTP methods](#5-http-methods)
+- [Filtering](#6-filtering)
+- [Status Codes](#7-status-codes)
+- [Error handling](#8-error-handling)
+- [Returns](#9-returns)
+- [Hypermedia API](#10-hypermedia-api)
 
 ### 1. Protocol
 
